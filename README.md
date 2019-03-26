@@ -11,6 +11,6 @@ How to use it :
 
 What I want to implement:
   - fix a bug (rarely occurs) which makes the program 'freeze' (it's not really freeezing, it's running an infinite while loop)
-  - more than 3x3 Cubes (2x2, 4x4, etc.)
+  - more than 3x3 Cube (2x2, 4x4, etc.)
   - BLD Solving
   - More complex (and fast) methods for RC solving
